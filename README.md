@@ -1,6 +1,6 @@
 # prezto-kubectl
 
-Kubectl module for Zsh configuration framework Prezto.
+Kubectl module for Zsh configuration framework [Prezto](https://github.com/sorin-ionescu/prezto).
 
 ## Installation
 
