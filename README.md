@@ -11,14 +11,13 @@ Kubectl module for Zsh configuration framework [Prezto](https://github.com/sorin
 
 2. Clone this repository:
     ```
-    cd
-    git clone https://github.com/tarak/prezto-kubectl.git .zprezto-contrib/kubectl
+    git clone https://github.com/prezto-contributions/prezto-kubectl.git ~/.zprezto-contrib/kubectl
     ```
 
 3. Add the module to the Prezto modules to load in your `~/.zpreztorc`:
     ```
     zstyle ':prezto:load' pmodule \
-    kubectl
+      kubectl
     ```
 
 ## Aliases
